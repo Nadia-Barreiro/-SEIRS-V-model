@@ -2,6 +2,8 @@
 #### authors: N. L. Barreiro, C. I. Ventura, T. Govezensky, M. Núñez, P. G. Bolcatto, and R. A. Barrio
 #### code author: Dr. Nadia Barreiro
 
+For questions please contact nadus.barreiro@hotmail.com
+
 ### General Ideas of the model
 
 In order to implement the model, a geographical map of the region of interest is divided into square cells with coordinates (i,j), covering the whole region.  Roads between cities were used to allow short or long distance travelling within the grid.
@@ -28,7 +30,7 @@ Vaccine distribution was set using three kind of parameters: tvac* , the moment 
 
 All the other parameters in the model (with exception of mobility and noise) were fixed for all the countries. For instance, the epidemiological parametrs alpha, beta, omega and sigma are the same for all the countries during the whole simulation since they depend only on the virus. These parameters may change only if we consider a different virus variant. 
 
-
+Some output files are provided as examples.
 
 
 
