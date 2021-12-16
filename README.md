@@ -2,7 +2,7 @@
 #### authors: N. L. Barreiro, C. I. Ventura, T. Govezensky, M. Núñez, P. G. Bolcatto, and R. A. Barrio
 #### code author: Dr. Nadia Barreiro
 
-For questions please contact nadus.barreiro@hotmail.com
+For questions please contact nadus.barreiro@gmail.com
 
 ### General Ideas of the model
 
