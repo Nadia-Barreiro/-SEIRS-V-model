@@ -32,6 +32,9 @@ All the other parameters in the model (with exception of mobility and noise) wer
 
 Some output files are provided as examples.
 
+cite the code with:
+[![DOI](https://zenodo.org/badge/438028998.svg)](https://zenodo.org/badge/latestdoi/438028998)
+
 
 
 
